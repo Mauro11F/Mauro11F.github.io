@@ -1,9 +1,9 @@
 export const personalInfo = {
-  name: "Rishikesh S",
-  location: "Coimbatore, India",
-  email: "rkesh2003@gmail.com",
-  github: "https://github.com/rishikesh2003",
-  linkedin: "https://www.linkedin.com/in/rishikeshs/",
+  name: "Mauro Franco",
+  location: "Posadas, Argentina",
+  email: "maurohfranco@gmail.com",
+  github: "https://github.com/Mauro11F",
+  linkedin: "https://www.linkedin.com/in/mauro-franco33/",
 };
 
 export const workExperience = [
@@ -46,10 +46,10 @@ export const workExperience = [
 
 export const education = [
   {
-    institution: "Sri Krishna College of Engineering and Technology",
-    location: "Coimbatore, India",
-    degree: "B Tech Information Technology",
-    period: "Jun 2021 - Jun 2025",
+    institution: "Escuela Tecnica Normal10",
+    location: "Posadas Misiones, Argentina",
+    degree: "Analista en Sistemas de Informacion",
+    period: "2025",
     achievements: [
       "President of the Department of Information Technology",
       "G20 student delegate",
@@ -60,12 +60,11 @@ export const education = [
 ];
 export const skills = {
   programmingLanguages: [
-    "TypeScript",
     "JavaScript",
     "Python",
-    "C++",
-    "Java",
-    "Solidity",
+    "C#",
+    "PHP",
+    "SQL",
   ],
   frontendDevelopment: [
     "Nextjs",
@@ -77,7 +76,7 @@ export const skills = {
     "CSS",
   ],
   backendDevelopment: ["Nodejs", "Expressjs"],
-  databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
+  databaseAndStorage: ["PostgreSQL", "NySQL", "Eloquent(ORM)"],
   cloudAndDevOps: ["AWS"],
   toolsAndServices: [
     "Clerk (Auth)",
